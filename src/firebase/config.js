@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDur_06UX6FI8NJL0Pg08pUjy9CdsO32uw",
-  authDomain: "pixel-dam.firebaseapp.com",
-  projectId: "pixel-dam",
-  storageBucket: "pixel-dam.appspot.com",
-  messagingSenderId: "338865545935",
-  appId: "1:338865545935:web:31ef161d7685dc176b4dba"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_ID",
+  appId: "YOUR_APP_ID"
 };
 
 // Initialize Firebase
