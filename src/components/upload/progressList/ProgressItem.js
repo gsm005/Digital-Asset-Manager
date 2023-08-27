@@ -20,8 +20,8 @@ const ProgressItem = ({ file }) => {
         return;
       }
 
-      const apiKey = 'acc_141ccf9c6b6455d';
-      const apiSecret = '55350b92f1644801f2e7ba60b305bad2';
+      const apiKey = 'YOUR_API_KEY';
+      const apiSecret = 'YOUR_API_SECRET';
       const apiUrl = 'https://api.imagga.com/v2/tags';
 
       const formData = new FormData();
